@@ -1,0 +1,15 @@
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\bin\Debug\netcoreapp3.1\Meu pprimeiro forms.exe
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\bin\Debug\netcoreapp3.1\Meu pprimeiro forms.deps.json
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\bin\Debug\netcoreapp3.1\Meu pprimeiro forms.runtimeconfig.json
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\bin\Debug\netcoreapp3.1\Meu pprimeiro forms.runtimeconfig.dev.json
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\bin\Debug\netcoreapp3.1\Meu pprimeiro forms.dll
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\bin\Debug\netcoreapp3.1\Meu pprimeiro forms.pdb
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\obj\Debug\netcoreapp3.1\Meu pprimeiro forms.csprojAssemblyReference.cache
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\obj\Debug\netcoreapp3.1\Meu_pprimeiro_forms.Form1.resources
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\obj\Debug\netcoreapp3.1\Meu pprimeiro forms.csproj.GenerateResource.cache
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\obj\Debug\netcoreapp3.1\Meu pprimeiro forms.AssemblyInfoInputs.cache
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\obj\Debug\netcoreapp3.1\Meu pprimeiro forms.AssemblyInfo.cs
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\obj\Debug\netcoreapp3.1\Meu pprimeiro forms.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\obj\Debug\netcoreapp3.1\Meu pprimeiro forms.dll
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\obj\Debug\netcoreapp3.1\Meu pprimeiro forms.pdb
+C:\Users\Entra21\Desktop\Djorge\Meu pprimeiro forms\Meu pprimeiro forms\obj\Debug\netcoreapp3.1\Meu pprimeiro forms.genruntimeconfig.cache
